@@ -13,8 +13,7 @@ Julia McLane
 This project showed how an API can send information to an application through the use of AJAX and JASON to display the data stored on it. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jmcl17.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. AJAX can automatically update a webpage without having to refresh the page
